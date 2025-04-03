@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Raja Fahad (Drakuu)  
+# <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" alt="Wave" width="35" height="35" /> Hi, I'm Raja Fahad (Drakuu)  
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Frontend Developer | MERN Stack | UI/UX Specialist
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="Rocket" width="25" height="25" /> Frontend Developer | MERN Stack | UI/UX Specialist
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=22C3EE&center=true&vCenter=true&width=600&lines=Digital+Experience+Architect;Pixel+Perfectionist;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Tech Stack
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/toolbox_1f9f0.png" alt="Toolbox" width="25" height="25" /> Tech Stack
 
 <div align="center">
   
@@ -38,7 +38,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/chart-increasing_1f4c8.png" alt="Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Drakuu">
@@ -51,21 +51,21 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" height="25" /> Current Focus
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/computer_1f4bb.png" alt="Computer" width="25" height="25" /> Current Focus
 
 <div style="background: rgba(13,17,23,0.7); padding: 15px; border-radius: 10px; border-left: 4px solid #22d3ee;">
   
-  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" /> SaaS CRM System**  
+  **<img src="https://em-content.zobj.net/source/microsoft-teams/363/briefcase_1f4bc.png" alt="Briefcase" width="20" height="20" /> SaaS CRM System**  
   - Building intuitive dashboards with React  
   - Implementing role-based access control  
   - Optimizing performance with lazy loading  
   
-  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hospital.png" alt="Hospital" width="20" height="20" /> Hospital Management**  
+  **<img src="https://em-content.zobj.net/source/microsoft-teams/363/hospital_1f3e5.png" alt="Hospital" width="20" height="20" /> Hospital Management**  
   - Creating patient flow automation  
   - Developing responsive appointment system  
   - Integrating secure data handling  
   
-  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> Learning**  
+  **<img src="https://em-content.zobj.net/source/microsoft-teams/363/books_1f4da.png" alt="Books" width="20" height="20" /> Learning**  
   - Advanced React patterns  
   - Node.js performance optimization  
   - Microservices architecture  
@@ -73,15 +73,15 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="25" height="25" /> About Me
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/light-bulb_1f4a1.png" alt="Bulb" width="25" height="25" /> About Me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Comet.png" alt="Comet" width="20" height="20" /> **Fun Fact:** I can debug CSS while half-asleep!
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="20" height="20" /> **2024 Goal:** Master advanced React patterns
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> **Philosophy:** "Code should be as clean as your UI"
+- **<img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png" alt="Star" width="20" height="20" /> Fun Fact:** I can debug CSS while half-asleep!
+- **<img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" alt="Trophy" width="20" height="20" /> 2024 Goal:** Master advanced React patterns
+- **<img src="https://em-content.zobj.net/source/microsoft-teams/363/brain_1f9e0.png" alt="Brain" width="20" height="20" /> Philosophy:** "Code should be as clean as your UI"
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="Handshake" width="25" height="25" /> Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raja-fahad-5a414328b">
