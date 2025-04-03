@@ -42,7 +42,12 @@ Building RESTful APIs for my projects
 
 💬 Ask me about React performance or UI design
 
-⚡ Fun fact: I can type 80+ words per minute
+⚡ Fun fact: I once coded for 12 hours straight without realizing it!
+(Alternative options:
+"I can recite the CSS box model in my sleep!"
+"My first 'Hello World' was written in Notepad!"
+"I organize my code like I organize my closet - meticulously!"
+Choose whichever you like best!)
 
 🤝 Let's Connect
 <div align="center">
