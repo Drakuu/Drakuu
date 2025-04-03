@@ -31,7 +31,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Drakuu&show_icons=true&theme=radical" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Drakuu&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=Drakuu&theme=radical" />
+
 </td>
 </tr>
 </table>
