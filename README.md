@@ -1,62 +1,100 @@
-👋 Hi, I'm Raja Fahad (Drakuu)
-🚀 Passionate Frontend Developer | MERN Stack Specialist | UI/UX Enthusiast
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Crafting+Digital+Experiences+That+Matter;Turning+Ideas+Into+Interactive+Reality;Clean+Code+%7C+Beautiful+Designs" alt="Typing SVG" /> </div>
-🛠️ Tech Stack
-Frontend Mastery
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux,figma,framer" /> </div>
-Backend & Databases
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </div>
-Tools & Platforms
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman" /> </div>
-📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/Drakuu"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drakuu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakuu&layout=compact&langs_count=8&theme=radical&hide_border=true" /> </a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drakuu&theme=radical&hide_border=true" /> <img src="https://github-profile-trophy.vercel.app/?username=Drakuu&theme=radical&no-frame=true&row=1&column=7" /></div>
-🌟 Recent Activity
-🔧 Working on SaaS-based CRM System
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Raja Fahad (Drakuu)  
 
-Improving UI/UX to make it more user-friendly and modern
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Frontend Developer | MERN Stack | UI/UX Specialist
 
-Implementing responsive designs with Tailwind CSS
-
-Solving real-world business problems through code
-
-🏥 Developing Hospital Management System
-
-Creating intuitive patient management interfaces
-
-Optimizing workflow for medical staff
-
-Learning backend integration challenges
-
-📚 Expanding my backend knowledge
-
-Studying Express.js and MongoDB best practices
-
-Implementing secure authentication systems
-
-Building RESTful APIs for my projects
-
-🎯 Currently
-🔭 Working on SaaS CRM and Hospital Management systems
-
-🌱 Learning backend development with Node.js and Express
-
-💬 Ask me about React performance or UI design
-
-⚡ Fun fact: I once coded for 12 hours straight without realizing it!
-(Alternative options:
-"I can recite the CSS box model in my sleep!"
-"My first 'Hello World' was written in Notepad!"
-"I organize my code like I organize my closet - meticulously!"
-Choose whichever you like best!)
-
-🤝 Let's Connect
 <div align="center">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=22C3EE&center=true&vCenter=true&width=600&lines=Digital+Experience+Architect;Pixel+Perfectionist;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
-<div align="center">
-visitors
 
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Tech Stack
+
+<div align="center">
+  
+  ### Frontend
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  </div>
+  
+  ### Backend
+  <div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </div>
+  
+  ### Tools
+  <div>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </div>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Drakuu">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Drakuu&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakuu&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" />
+  </a>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drakuu&theme=radical&background=0d1117&hide_border=true" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" height="25" /> Current Focus
+
+<div style="background: rgba(13,17,23,0.7); padding: 15px; border-radius: 10px; border-left: 4px solid #22d3ee;">
+  
+  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" /> SaaS CRM System**  
+  - Building intuitive dashboards with React  
+  - Implementing role-based access control  
+  - Optimizing performance with lazy loading  
+  
+  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hospital.png" alt="Hospital" width="20" height="20" /> Hospital Management**  
+  - Creating patient flow automation  
+  - Developing responsive appointment system  
+  - Integrating secure data handling  
+  
+  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> Learning**  
+  - Advanced React patterns  
+  - Node.js performance optimization  
+  - Microservices architecture  
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="25" height="25" /> About Me
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Comet.png" alt="Comet" width="20" height="20" /> **Fun Fact:** I can debug CSS while half-asleep!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="20" height="20" /> **2024 Goal:** Master advanced React patterns
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> **Philosophy:** "Code should be as clean as your UI"
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/raja-fahad-5a414328b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Drakuu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=Drakuu&label=Profile+Views&color=0d1117&style=flat" alt="Drakuu" />
 </div>
