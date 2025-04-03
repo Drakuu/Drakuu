@@ -1,63 +1,104 @@
 # 👋 Hi, I'm Raja Fahad (Drakuu)  
-## 🚀 Passionate Frontend Developer | MERN Stack Enthusiast  
+### 🚀 Passionate Frontend Developer | MERN Stack Specialist | UI/UX Enthusiast  
 
-🎨 **UI/UX Designer** | 💻 **Frontend Developer** | 🚀 **Tech Explorer**  
-
-🌟 Crafting seamless web experiences with **HTML, CSS, Tailwind, JavaScript, and React**  
-📈 Enhancing UI/UX in **SaaS-based CRM & Hospital Management Systems**  
-🔍 Exploring **Next.js & Backend Development** to expand my expertise  
-⚡ Always open to **collaborations, freelance work, and exciting projects**  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Crafting+Digital+Experiences+That+Matter;Turning+Ideas+Into+Interactive+Reality;Clean+Code+%7C+Beautiful+Designs" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 **Tech Stack**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+## 🛠️ Tech Stack  
+
+### Frontend Mastery
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux,figma" />
+</div>
+
+### Backend & Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</div>
+
+### Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman" />
+</div>
 
 ---
 
-## 📊 **GitHub Stats**  
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Drakuu&show_icons=true&theme=radical&hide_border=true" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.vercel.app?user=Drakuu&theme=radical&hide_border=true" />
-</td>
-</tr>
-</table>
+## 📊 GitHub Analytics  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakuu&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🏆 **GitHub Trophies**  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Drakuu&theme=radical&no-bg=true&no-frame=true)
+<div align="center">
+  
+  <a href="https://github.com/Drakuu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drakuu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakuu&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  </a>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drakuu&theme=radical&hide_border=true" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Drakuu&theme=radical&no-frame=true&row=1&column=7" />
+  
+</div>
 
 ---
 
-## 🔥 **Latest Projects**  
-🚀 **SaaS-based CRM & Hospital Management System** *(Team Project)*  
-🎨 **UI/UX Web Design Templates** *(Solo Projects)*  
-🔧 **Solving real-world problems through creative web solutions**  
+## 🏆 Featured Projects  
+
+<div align="center">
+  
+  | Project | Description | Tech Stack |
+  |---------|-------------|------------|
+  | **[SaaS CRM System](https://github.com/Drakuu)** | Enterprise-grade customer management platform | React, Node.js, MongoDB |
+  | **[Hospital Management](https://github.com/Drakuu)** | Digital healthcare solution | Next.js, Tailwind, Firebase |
+  | **[E-commerce UI Kit](https://github.com/Drakuu)** | Modern shopping experience | React, SCSS, Context API |
+  
+</div>
 
 ---
 
-## 🎯 **Fun Facts**  
-- 💡 **Tech Enthusiast:** Love experimenting with new frameworks & tools  
-- 🎮 **Gamer at Heart:** Enjoy PC games when not coding  
-- 📚 **Lifelong Learner:** Always exploring new challenges & technologies  
+## 🌟 Recent Activity  
+
+<!--START_SECTION:activity-->
+1. � Merged PR #42 in [Drakuu/portfolio-v2](https://github.com/Drakuu/portfolio-v2)
+2. 🚀 Deployed [Healthcare Dashboard](https://medical-dashboard-demo.netlify.app/)
+3. 🛠️ Fixed authentication bug in CRM project
+4. 📚 Learning Three.js for 3D web experiences
+<!--END_SECTION:activity-->
 
 ---
 
-## 📬 **Let's Connect**  
-📫 **[LinkedIn](https://www.linkedin.com/in/raja-fahad-5a414328b) | [GitHub](https://github.com/Drakuu) | [Portfolio](#)**  
+## 📈 Contribution Graph  
 
-🚀 *Let’s build something amazing together!*  
+[![Drakuu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Drakuu&theme=react-dark&hide_border=true)](https://github.com/Drakuu)
+
+---
+
+## 🎯 Currently  
+
+- 🔭 Working on **AI-powered dashboard components**
+- 🌱 Learning **Three.js & WebGL**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **React performance optimization**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+
+---
+
+## 🤝 Let's Connect  
+
+<div align="center">
+  
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raja-fahad-5a414328b)
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Drakuu)
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com)
+  [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://yourportfolio.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Drakuu.Drakuu)
+  
+</div>
